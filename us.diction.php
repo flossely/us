@@ -2,6 +2,44 @@
 
 $diction['us'] =
 [
+    'metric' =>
+    [
+        '' =>
+        [
+            'order' => 'DESC',
+            'word' => 'Info',
+        ],
+        'bshp' =>
+        [
+            'order' => 'ASC',
+            'word' => 'Body',
+        ],
+        'fshp' =>
+        [
+            'order' => 'ASC',
+            'word' => 'Feet',
+        ],
+        'height' =>
+        [
+            'order' => 'DESC',
+            'word' => 'Height',
+        ],
+        'weight' =>
+        [
+            'order' => 'DESC',
+            'word' => 'Weight',
+        ],
+        'size' =>
+        [
+            'order' => 'DESC',
+            'word' => 'Size',
+        ],
+        'arousal' =>
+        [
+            'order' => 'DESC',
+            'word' => 'Beauty',
+        ],
+    ],
     'digital' =>
     [
         '0',
