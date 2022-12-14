@@ -16,28 +16,28 @@ $metro['us'] =
     ],
     "unit" =>
     [
-        "quantity" => "K",
+        "ratio" => "K",
         "height" => "ft",
         "weight" => "lb",
         "size" => "US",
     ],
     "side" =>
     [
-        "quantity" => "right",
+        "ratio" => "right",
         "height" => "right",
         "weight" => "right",
         "size" => "right",
     ],
     "space" =>
     [
-        "quantity" => "",
+        "ratio" => "",
         "height" => " ",
         "weight" => " ",
         "size" => " ",
     ],
     "round" =>
     [
-        "quantity" => 3,
+        "ratio" => 3,
     ],
     "bshp" =>
     [
