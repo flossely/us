@@ -17,7 +17,7 @@ $metro['us'] =
     ],
     "unit" =>
     [
-        "quantity" => "°",
+        "quantity" => "K",
         "height" => "ft",
         "weight" => "lb",
         "size" => "US",
