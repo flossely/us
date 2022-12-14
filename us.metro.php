@@ -30,7 +30,7 @@ $metro['us'] =
     ],
     "space" =>
     [
-        "ratio" => "",
+        "ratio" => " ",
         "height" => " ",
         "weight" => " ",
         "size" => " ",
