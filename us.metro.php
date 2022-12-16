@@ -32,7 +32,7 @@ $metro['us'] =
     ],
     "unit" =>
     [
-        "ratio" => "K Magic",
+        "ratio" => "K",
         "height" => "ft",
         "weight" => "lb",
         "size" => "US",
