@@ -21,6 +21,19 @@ $diction['us'] =
         0 => 'Center',
         1 => 'Right'
     ],
+    'name' =>
+    [
+        0 => "Eurosphere",
+        1 => "Midnight Sun",
+        2 => "European Elegance",
+        3 => "Orthodox Cathedral",
+        4 => "Malthusian Trap",
+        5 => "Vanity Fair",
+        6 => "Symphony Orchestra",
+        7 => "Bohemian Rhapsody",
+        8 => "Moonlight Sonata",
+        9 => "Erotosphere"
+    ],
     'alphabet' =>
     [
         'a',
