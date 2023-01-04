@@ -133,6 +133,7 @@ $parle['us'] =
     "term:era" => "Era",
     "term:era:pl" => "Eras",
     "term:fallback" => "Fallback Font",
+    "term:monospace" => "Monospace Font",
     "term:file" => "File",
     "term:filename" => "Filename",
     "term:font" => "Font",
